@@ -1,26 +1,25 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+    # My First Website Readme.
+    
+    Introduction into the contents and purpose behind my first website. 
+    ## Purpose behind this site.
+    From what I gather thus far, this site is part of my course work within my full-stack developer course through The Learning People in collaboration with the code institute.
+    It seems to illustrate all the different languages and components learnt as part of the course, breaking them down into three different 'Streams'.
+    I am close to completed my first stream as an almost complete newbie to web development having only tinkered a little with dreamweaver, Mambo, and Joomla previously (and over a decade ago).
+    
+    ## A little breakdown of the various sections.
+    
+    ### Stream One
+    #### HTML5
+    The backbone of the web, HTML is the principle language used to build websites and thus our starting point.
+    
+    #### CSS3
+    To a little more glitz to vanilla HTML we have CSS which applies styling parameters to websites.
+    
+    #### JavaScript
+    More functionality is added with JavaScript. Will update this line.
+    
+    #### Cloud 9
+    ### Stream Two
+    
+    ### Stream Three
+    
